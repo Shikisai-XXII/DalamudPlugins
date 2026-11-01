@@ -2,6 +2,7 @@
   {
     "Author": "Shikisai-XXII",
     "Name": "更好的幻化管理",
+    "IconUrl": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/icon.png",
     "InternalName": "GlamourShelf",
     "AssemblyVersion": "0.4.7.0",
     "Description": "合并浏览投影台和收藏柜，支持搜索、收藏、本地模板与分享码。可临时记录玩家搭配，导入石之家光之收藏家方案；整套试穿为实验性功能。输入 /gshelf 打开。",
