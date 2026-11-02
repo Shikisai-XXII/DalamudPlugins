@@ -3,7 +3,7 @@
     "Author": "Shikisai-XXII",
     "Name": "更好的幻化管理",
     "InternalName": "GlamourShelf",
-    "AssemblyVersion": "0.4.9.0",
+    "AssemblyVersion": "0.5.3.0",
     "Description": "合并检索投影台与收藏柜装备，支持保存、分类和分享本地幻化模板。可记录其他玩家的搭配，导入石之家光之收藏家方案。整套试穿为实验性功能。输入 /gshelf 打开。",
     "Punchline": "装备检索、搭配收藏与幻化方案导入",
     "ApplicableVersion": "any",
@@ -16,11 +16,11 @@
       "utility"
     ],
     "RepoUrl": "https://github.com/Shikisai-XXII/DalamudPlugins",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/GlamourShelf-0.4.9.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/GlamourShelf-0.4.9.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/GlamourShelf-0.4.9.zip",
-    "LastUpdate": 1793581399,
-    "Changelog": "更新插件介绍，同步安装包和仓库文案。",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/GlamourShelf-0.5.3.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/GlamourShelf-0.5.3.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/GlamourShelf-0.5.3.zip",
+    "LastUpdate": 1793618458,
+    "Changelog": "简化装备持有提示：未连接模板时使用右键查询，连接后仅检查投影台和收藏柜。移除自动缓存检索设置。",
     "IconUrl": "https://raw.githubusercontent.com/Shikisai-XXII/DalamudPlugins/main/icon.png"
   }
 ]
